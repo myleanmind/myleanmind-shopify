@@ -57,3 +57,12 @@ product_review
 product_review_by_url
 http://thegadgetflow.com/
 ```
+
+#### Let's upload the image for the product review
+Nothing complicated, but you need to be aware of uploading an image that will go to the thumbnail of the reviewer. Follow the steps:
+
+* Create an image to represent your reviewer with size 96 X 96px in Canva. If it's a company google the image and get the one with the best quality and size.
+* Download as jpeg and rename it to something similar to Gadget-flow-logo-avatar.jpg
+* Edit HTML/CSS in Shopify
+* Click the Assets folder
+* Upload the image that you just created
