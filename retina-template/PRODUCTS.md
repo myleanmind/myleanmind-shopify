@@ -66,3 +66,10 @@ Nothing complicated, but you need to be aware of uploading an image that will go
 * Edit HTML/CSS in Shopify
 * Click the Assets folder
 * Upload the image that you just created
+
+And also add the following metadata:
+```
+product_review
+product_review_by_image_name
+Gadget-flow-logo-avatar.jpg
+```
